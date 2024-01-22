@@ -49,12 +49,12 @@ public class PlayerMovement : MonoBehaviour
         if (dir != Vector2.zero)
         {
             //estamos andando.
-            _animator.SetBool("isWalking", true);
+            _animator.SetBool("andar", true);
         }
         else
         {
             //estamos parados.
-            _animator.SetBool("isWalking", false);
+            _animator.SetBool("andar", false);
         }
     }
 
