@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using UnityEngine.UI; //Esto es para cargar las funciones del apartado UI de Unity
 
 public class Score : MonoBehaviour
 {

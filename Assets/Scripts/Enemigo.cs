@@ -1,18 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI; //Esto es para cargar las funciones del apartado UI de Unity
+
 
 public class Enemigo : MonoBehaviour
 {
     public float speed;
     private SpriteRenderer _rend;
     public Transform corazon;
+    
 
     void Start()
     {
         _rend = GetComponent<SpriteRenderer>();
         corazon = FindAnyObjectByType<PlayerMovement>().transform;
-
+       
     }
 
     void Update() 
@@ -36,7 +39,9 @@ public class Enemigo : MonoBehaviour
     {
         if(collision.GetComponent<PlayerMovement>())
         {
+            
             Destroy(gameObject);
+           
         }
     
 
