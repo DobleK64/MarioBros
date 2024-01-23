@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
@@ -16,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator _animator;
     private Vector2 dir;
     private bool _intentionToJump;
+    private Vector2 originalPosition;
 
     // Start is called before the first frame update
     void Start()
@@ -23,6 +25,8 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         _rend = GetComponent<SpriteRenderer>();
         _animator = GetComponent<Animator>();
+
+        originalPosition = transform.position;
     }
 
     // Update is called once per frame
@@ -92,4 +96,11 @@ public class PlayerMovement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawRay(transform.position, Vector2.down * rayDistance);
     }
+    public void resetCorazon()
+    {
+        transform.position = originalPosition;
+    }
+   
 }
+
+

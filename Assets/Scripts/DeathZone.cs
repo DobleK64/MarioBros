@@ -17,6 +17,12 @@ public class DeathZone : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision) // AL PASAR LA LINEA LAS LETRAS SE DESTRUYEN
     {
-        Destroy(collision.gameObject);
+        
+        // devolver pelota pos inicial
+        PlayerMovement corazon = collision.gameObject.GetComponent<PlayerMovement>();
+        if (corazon)
+        {
+            corazon.resetCorazon();
+        } 
     }
 }

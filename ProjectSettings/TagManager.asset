@@ -6,6 +6,7 @@ TagManager:
   tags:
   - enemigo
   - Weak Point
+  - cuerpo
   layers:
   - Default
   - TransparentFX

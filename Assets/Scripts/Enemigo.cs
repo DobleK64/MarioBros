@@ -32,4 +32,19 @@ public class Enemigo : MonoBehaviour
             }
         }
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.GetComponent<PlayerMovement>())
+        {
+            Destroy(gameObject);
+        }
+    
+
+        // devolver pelota pos inicial
+        PlayerMovement corazon = collision.gameObject.GetComponent<PlayerMovement>();
+        if (corazon)
+        {
+            corazon.resetCorazon();
+        } 
+    }
 }
