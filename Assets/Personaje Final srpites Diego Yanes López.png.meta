@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 67913e7b8c8b86b469c61e9f01f041b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_0"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 871
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee62dbe0e8e754fa8cdaa236707147
+      internalID: -670501811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_1"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 871
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa4f36b88cb254aa97b44199c925d5
+      internalID: 668035043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_2"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 872
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7f87d44e89c74eb19c780be9998fd
+      internalID: 1370845173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_3"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 872
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc71382b6943b4aba063476ace134a
+      internalID: -1450391536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_4"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 872
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d66ec4c121de46a1e5a2380a07167
+      internalID: 1688326362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_5"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 872
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da50c379961f1e64dbfa2a7d8baba1d6
+      internalID: -1564201919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_6"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 875
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9549ce8ad15db478d580f405905ccc
+      internalID: 1089859240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_7"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 872
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa73d8008717046852035a8e24e8f5
+      internalID: -602662552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_8"
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 871
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f06e39193ba864ba6a91775bc0cb60
+      internalID: 926798127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_9"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 872
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c3713a45b42e4ab53dc9314033db1
+      internalID: 1035929929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_10"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 808
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b96445264d1e4aaaf6cfa0ecf1295
+      internalID: -1429622677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_11"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 808
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e7b66768ba44448923cb03c4bcda5f
+      internalID: -830467160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_12"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 808
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16bc8a5b8dd2094581725a337f654f7
+      internalID: -1338750605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_13"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 808
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1bc919881e3a648862786bdd7a74f7
+      internalID: 1714568622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_14"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 808
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5aa4024e2dcd40a3958e9d28fd201
+      internalID: -1084504970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_15"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 808
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0491dc3209f57943bbd31a9f3277d0f
+      internalID: -764063763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_16"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 808
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bffd4ecf6bd619479db712baaf10969
+      internalID: -598997271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_17"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 806
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146cceb1497c6124eac802045f54d12b
+      internalID: -234909222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_18"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 744
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180e20679bf614429ec343a50b3bf5e
+      internalID: 386160631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_19"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 744
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf97b8c6bd10974fba270cf06ad050a
+      internalID: -793290918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_20"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 744
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2579a9a6aedf4fa497ae33eb1b9e2
+      internalID: -1324873281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_21"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 759
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7ec572e223da478da56ed1608cbd7
+      internalID: -1424440939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_22"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 743
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00145df03d1a4724287a35dc15c52d56
+      internalID: 1826124000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_23"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 756
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4de6b1ee8390c42b4c464802268c5a
+      internalID: -412523633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_24"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 744
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097e711591629c42ba0b31ba56d0df9
+      internalID: -1044263011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_25"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 768
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f64b9f21cbba542aa50406b7b42213
+      internalID: -1716904521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_26"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 744
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e1e0b62d89be40acd32502b39ce42
+      internalID: -1017792525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_27"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 773
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24053f2e7a4345744afd450d6dd29bc7
+      internalID: -372831089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_28"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 743
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c67788a73e6e4eb662829c9c33ab0
+      internalID: 393546050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_29"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 744
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196329a49c4dc3343aa82d16d259b455
+      internalID: 967271638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_30"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 744
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b547faa47e6a47badde5191b554f7
+      internalID: -1538402296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_31"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 744
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92056f038fd453d4987bc12ba54caaf4
+      internalID: 799829722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_32"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 744
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200884867a970b48b3c6fe054b7b011
+      internalID: -1199253864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_33"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 756
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e05c6103647ad458c832c4ac4928b3
+      internalID: 1337919665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_34"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 670
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b55200bec0ad84abaaf1dbec5c819c
+      internalID: 1110606866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_35"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 672
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f70e5ae1b6fd41973c3d9a0ffaffe
+      internalID: -900746947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_36"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 673
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243fa15305c2e045b0d00b2ef725603
+      internalID: 1449210094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_37"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 673
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b36b2c5adc82949965f610aac58595
+      internalID: 439163833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_38"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 672
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd5c23b1657764c90f0c951e9ec9eb
+      internalID: -317998766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_39"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 673
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8308bdee46634a879785b442f81e2
+      internalID: 245543362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_40"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 673
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9113846d58ac439ba31cf9438d752
+      internalID: 114095452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Personaje Final srpites Diego Yanes L\xF3pez_41"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 673
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a528c5132ade408b1588c22e8f95f
+      internalID: 1806065580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Personaje Final srpites Diego Yanes L\xF3pez_0": -670501811
+      "Personaje Final srpites Diego Yanes L\xF3pez_1": 668035043
+      "Personaje Final srpites Diego Yanes L\xF3pez_10": -1429622677
+      "Personaje Final srpites Diego Yanes L\xF3pez_11": -830467160
+      "Personaje Final srpites Diego Yanes L\xF3pez_12": -1338750605
+      "Personaje Final srpites Diego Yanes L\xF3pez_13": 1714568622
+      "Personaje Final srpites Diego Yanes L\xF3pez_14": -1084504970
+      "Personaje Final srpites Diego Yanes L\xF3pez_15": -764063763
+      "Personaje Final srpites Diego Yanes L\xF3pez_16": -598997271
+      "Personaje Final srpites Diego Yanes L\xF3pez_17": -234909222
+      "Personaje Final srpites Diego Yanes L\xF3pez_18": 386160631
+      "Personaje Final srpites Diego Yanes L\xF3pez_19": -793290918
+      "Personaje Final srpites Diego Yanes L\xF3pez_2": 1370845173
+      "Personaje Final srpites Diego Yanes L\xF3pez_20": -1324873281
+      "Personaje Final srpites Diego Yanes L\xF3pez_21": -1424440939
+      "Personaje Final srpites Diego Yanes L\xF3pez_22": 1826124000
+      "Personaje Final srpites Diego Yanes L\xF3pez_23": -412523633
+      "Personaje Final srpites Diego Yanes L\xF3pez_24": -1044263011
+      "Personaje Final srpites Diego Yanes L\xF3pez_25": -1716904521
+      "Personaje Final srpites Diego Yanes L\xF3pez_26": -1017792525
+      "Personaje Final srpites Diego Yanes L\xF3pez_27": -372831089
+      "Personaje Final srpites Diego Yanes L\xF3pez_28": 393546050
+      "Personaje Final srpites Diego Yanes L\xF3pez_29": 967271638
+      "Personaje Final srpites Diego Yanes L\xF3pez_3": -1450391536
+      "Personaje Final srpites Diego Yanes L\xF3pez_30": -1538402296
+      "Personaje Final srpites Diego Yanes L\xF3pez_31": 799829722
+      "Personaje Final srpites Diego Yanes L\xF3pez_32": -1199253864
+      "Personaje Final srpites Diego Yanes L\xF3pez_33": 1337919665
+      "Personaje Final srpites Diego Yanes L\xF3pez_34": 1110606866
+      "Personaje Final srpites Diego Yanes L\xF3pez_35": -900746947
+      "Personaje Final srpites Diego Yanes L\xF3pez_36": 1449210094
+      "Personaje Final srpites Diego Yanes L\xF3pez_37": 439163833
+      "Personaje Final srpites Diego Yanes L\xF3pez_38": -317998766
+      "Personaje Final srpites Diego Yanes L\xF3pez_39": 245543362
+      "Personaje Final srpites Diego Yanes L\xF3pez_4": 1688326362
+      "Personaje Final srpites Diego Yanes L\xF3pez_40": 114095452
+      "Personaje Final srpites Diego Yanes L\xF3pez_41": 1806065580
+      "Personaje Final srpites Diego Yanes L\xF3pez_5": -1564201919
+      "Personaje Final srpites Diego Yanes L\xF3pez_6": 1089859240
+      "Personaje Final srpites Diego Yanes L\xF3pez_7": -602662552
+      "Personaje Final srpites Diego Yanes L\xF3pez_8": 926798127
+      "Personaje Final srpites Diego Yanes L\xF3pez_9": 1035929929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
