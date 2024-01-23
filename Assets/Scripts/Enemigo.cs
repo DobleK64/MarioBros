@@ -20,19 +20,19 @@ public class Enemigo : MonoBehaviour
         // Verificar si el personaje colisiona con el enemigo
         if (corazon !=null) 
         {
-            if (transform.position.x < corazon.position.x)
+            if (transform.position.x < corazon.position.x) //El enemigo sigue a nuestro personaje si se posiciona a la derecha
             {
                 transform.Translate(Vector2.right * speed * Time.deltaTime);
                 _rend.flipX = false;
             }
-            else if (transform.position.x > corazon.position.x) 
+            else if (transform.position.x > corazon.position.x)  //El enemigo sigue a nuestro personaje si se posiciona a la izquierda
             {
                 transform.Translate(Vector2.left * speed * Time.deltaTime);
                 _rend.flipX = true;
             }
         }
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision) //Cuando el enemigo toca al jugador lo mata
     {
         if(collision.GetComponent<PlayerMovement>())
         {
@@ -40,7 +40,7 @@ public class Enemigo : MonoBehaviour
         }
     
 
-        // devolver pelota pos inicial
+        //sin acabar
         PlayerMovement corazon = collision.gameObject.GetComponent<PlayerMovement>();
         if (corazon)
         {

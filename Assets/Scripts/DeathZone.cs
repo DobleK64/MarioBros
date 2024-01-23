@@ -15,10 +15,10 @@ public class DeathZone : MonoBehaviour
     {
         
     }
-    private void OnTriggerEnter2D(Collider2D collision) // AL PASAR LA LINEA LAS LETRAS SE DESTRUYEN
+    private void OnTriggerEnter2D(Collider2D collision) // AL PASAR LA LINEA EL JUGADOR VUELVE A LA POSICION INICIAL
     {
         
-        // devolver pelota pos inicial
+        
         PlayerMovement corazon = collision.gameObject.GetComponent<PlayerMovement>();
         if (corazon)
         {

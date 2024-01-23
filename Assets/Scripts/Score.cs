@@ -7,7 +7,7 @@ public class Score : MonoBehaviour
 {
     private int score;
     public Text scoreText;
-    // Start is called before the first frame update
+   
     void Start()
     {
         score = 0;
@@ -15,10 +15,16 @@ public class Score : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.GetComponent<Moneda>())
+        if(collision.gameObject.GetComponent<Moneda>()) // Cuando nuestro personaje coge una moneda esta se suma al score y actualiza el texto de la interfaz
         {
             score++;
             scoreText.text = "COINS " + score;
         }
+        if(collision.gameObject.GetComponent<CofreMonedas>())
+        {
+            score += 50;
+            scoreText.text = "COINS " + score;
+        }
+        
     }
 }
