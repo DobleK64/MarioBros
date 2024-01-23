@@ -18,14 +18,14 @@ public class Enemigo : MonoBehaviour
     void Update() 
     {
         // Verificar si el personaje colisiona con el enemigo
-        if (corazon != null) 
+        if (corazon !=null) 
         {
             if (transform.position.x < corazon.position.x)
             {
                 transform.Translate(Vector2.right * speed * Time.deltaTime);
                 _rend.flipX = false;
             }
-            else if (transform.position.x > corazon.position.x) { }
+            else if (transform.position.x > corazon.position.x) 
             {
                 transform.Translate(Vector2.left * speed * Time.deltaTime);
                 _rend.flipX = true;
