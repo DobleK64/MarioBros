@@ -60,7 +60,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (dir != Vector2.zero)
+        bool grnd = IsGrounded();
+        //if (dir != Vector2.zero)
         {
             float currentYVel = rb.velocity.y; //sirve para que si te estas moviendo, caigas a la misma velocidad que te mueves.
             Vector2 nVel = dir * speed;
@@ -70,9 +71,12 @@ public class PlayerMovement : MonoBehaviour
 
         if (_intentionToJump && IsGrounded()) //Salto del personaje.
         {
+            _animator.Play("saltar");
             rb.velocity = new Vector2(rb.velocity.x, 0);
             rb.AddForce(Vector2.up * jumpForce * rb.gravityScale * rb.drag, ForceMode2D.Impulse); //rb.drag es para evitar que el personaje se deslice.
+            _intentionToJump = false;
         }
+        _animator.SetBool("isGrounded", grnd);
     }
     private bool IsGrounded() //se lanza un rayo desde el personaje hacia abajo y detectar la m�scara de colisiones que hemos establecido (detectar el suelo).
     {
