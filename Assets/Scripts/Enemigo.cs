@@ -45,7 +45,7 @@ public class Enemigo : MonoBehaviour
         }
     
 
-        //sin acabar
+        //sin acabar, intente que cuando el enemigo tocara a nuestro jugador reiniciara la escena, pero como nuestro enemigo tiene 2 colliders al pisarlo me mataba y reiniciaba la escena
         PlayerMovement corazon = collision.gameObject.GetComponent<PlayerMovement>();
         if (corazon)
         {

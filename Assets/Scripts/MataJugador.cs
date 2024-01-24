@@ -5,7 +5,7 @@ using UnityEngine;
 public class MataJugador : MonoBehaviour
 {
     
-    private void OnCollisionEnter2D(Collision2D collision) // Cunado el enemigo toca a nuestro personaje lo mata
+    private void OnCollisionEnter2D(Collision2D collision) // Cuando el enemigo toca a nuestro personaje lo mata
     {
         if(collision.gameObject.tag == "Player")
         {

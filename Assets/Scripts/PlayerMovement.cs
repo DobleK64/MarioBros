@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public KeyCode rightKey, leftKey, jumpKey;
     public float speed, rayDistance, jumpForce;
-    public LayerMask groundMask; //M�scara de colisiones con la que queremos que choque el rayo.
+    public LayerMask groundMask; // mascara de colisiones con la que queremos que choque el rayo.
 
     private Rigidbody2D rb;
     private SpriteRenderer _rend;
@@ -70,19 +70,19 @@ public class PlayerMovement : MonoBehaviour
             float currentYVel = rb.velocity.y; //sirve para que si te estas moviendo, caigas a la misma velocidad que te mueves.
             Vector2 nVel = dir * speed;
             nVel.y = currentYVel; //Quedarse la velocidad de Y.
-            rb.velocity = nVel; //Mantener la velocidad en Y en las ca�das despues del Salto.
+            rb.velocity = nVel; //Mantener la velocidad en Y en las caidas despues del Salto.
         }
 
-        if (_intentionToJump && IsGrounded()) //Salto del personaje.
+        if (_intentionToJump && IsGrounded()) //Salto del corazon.
         {
             _animator.Play("saltar");
             rb.velocity = new Vector2(rb.velocity.x, 0);
-            rb.AddForce(Vector2.up * jumpForce * rb.gravityScale * rb.drag, ForceMode2D.Impulse); //rb.drag es para evitar que el personaje se deslice.
+            rb.AddForce(Vector2.up * jumpForce * rb.gravityScale * rb.drag, ForceMode2D.Impulse); //rb.drag es para evitar que el corazon se deslice.
             _intentionToJump = false;
         }
         _animator.SetBool("isGrounded", grnd);
     }
-    private bool IsGrounded() //se lanza un rayo desde el personaje hacia abajo y detectar la m�scara de colisiones que hemos establecido (detectar el suelo).
+    private bool IsGrounded() //se lanza un rayo desde el corazon hacia abajo y detectar la m�scara de colisiones que hemos establecido (detectar el suelo).
     {
         RaycastHit2D collisions = Physics2D.Raycast(transform.position, Vector2.down, rayDistance, groundMask);
         if (collisions)
@@ -96,7 +96,7 @@ public class PlayerMovement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawRay(transform.position, Vector2.down * rayDistance);
     }
-    public void resetCorazon()
+    public void resetCorazon() // Para que nuestro corazon vuelva a su posicion incial al morir
     {
         transform.position = originalPosition;
     }
