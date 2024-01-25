@@ -96,11 +96,18 @@ public class PlayerMovement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawRay(transform.position, Vector2.down * rayDistance);
     }
-    public void resetCorazon() // Para que nuestro corazon vuelva a su posicion incial al morir
+    public void resetCorazon() // Para que nuestro corazon vuelva a su posicion incial al caer
     {
         transform.position = originalPosition;
     }
-   
+    void OnDestroy() // Esto comprueba que nuestro corazon a sido destruido
+    {
+        
+
+        
+        SceneManager.LoadScene("Juego"); // Si nuestro corazon a sido destruido se reiniciara la escena ("DESTRUIDO" caer al vacio solo hara que volvamos a la posiscion inicial)
+    }
+
 }
 
 

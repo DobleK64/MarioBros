@@ -4,16 +4,12 @@ using UnityEngine;
 
 public class CofreMonedas : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.GetComponent<PlayerMovement>()) //Al tocar el jugador el cofre se destruye
+        if (collision.gameObject.GetComponent<PlayerMovement>()) //Al tocar el jugador el cofre se destruye, 
         {
             Destroy(gameObject);
         }
-        else
-        {
-            // evita que el cofre colisionen con otros objetos
-            Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
-        }
     }
 }
+       

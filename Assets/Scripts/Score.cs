@@ -19,7 +19,7 @@ public class Score : MonoBehaviour //He intentado de todas las maneras posibles 
         score = 0;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision) 
+    private void OnTriggerEnter2D(Collider2D collision) 
     {
         if(collision.gameObject.GetComponent<Moneda>()) // Cuando nuestro personaje coge una moneda esta se suma al score y actualiza el texto de la interfaz
         {
