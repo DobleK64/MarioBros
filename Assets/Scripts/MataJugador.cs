@@ -9,6 +9,8 @@ public class MataJugador : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
+            print("Hola");
+            Camera.main.transform.parent = null;
             Destroy(collision.gameObject);
         }
     }

@@ -27,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
         _animator = GetComponent<Animator>();
 
         originalPosition = transform.position;
+        Camera.main.transform.parent = transform;
     }
 
     // Update is called once per frame
