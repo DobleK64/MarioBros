@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -48,6 +49,10 @@ public class GameManager : MonoBehaviour
     public void SetPoints(int value)
     {
         points = value;
+    }
+    public void LoadScene(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
     }
 //      // getter
 //    public void SetTime(i value)
