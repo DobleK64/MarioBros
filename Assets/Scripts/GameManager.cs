@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
+    public enum GameManagerVariables { TIME, POINTS };
     private float time;
     private int points;
 
