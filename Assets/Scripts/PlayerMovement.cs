@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     public KeyCode rightKey, leftKey, jumpKey;
     public float speed, rayDistance, jumpForce;
     public LayerMask groundMask; // mascara de colisiones con la que queremos que choque el rayo.
+    public AudioClip jumpClip; // 
 
     private Rigidbody2D rb;
     private SpriteRenderer _rend;
@@ -80,6 +81,7 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, 0);
             rb.AddForce(Vector2.up * jumpForce * rb.gravityScale * rb.drag, ForceMode2D.Impulse); //rb.drag es para evitar que el corazon se deslice.
             _intentionToJump = false;
+            AudioManager.instance.PlayAudio(jumpClip, "jumpSound", false, 0.1f);
         }
         _animator.SetBool("isGrounded", grnd);
     }

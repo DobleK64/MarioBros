@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,18 +10,15 @@ public class AudioManager : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        if(!instance)
+        if(!instance) //si instance no tiene informacion
         {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
+            instance = this; //instance se asigna a este objeto
+            DontDestroyOnLoad(gameObject); // se indica que esre obj no se destruya con la carga de escenas
         }
         else
         {
-            Destroy(gameObject);
+            Destroy(gameObject); // se destruye el gameobject, para que no haya dos o mas gms en el juego
         }
-    }
-    private void Start()
-    {
         audioList = new List<GameObject>();
     }
 
@@ -37,11 +35,24 @@ public class AudioManager : MonoBehaviour
         audioSourceComponent.loop = isLoop;
         audioSourceComponent.Play();
         audioList.Add(audioObject); //llevar un seguimiento de los objetos que estan sonando en la escena.
-        
+        if(!isLoop) // si el audio no esta en loop espero a que acabe para destruirlo
+        {
+            StartCoroutine(WaitAudioEnd(audioSourceComponent));
+        }
         
         
         return audioSourceComponent;
+    }//IEnumerator es una corrutina que tiene Unity para crear una epsecie de hilos y procesos
+   IEnumerator WaitAudioEnd(AudioSource src) //este bucle espera a que src deje de sonar para destruirlo
+    {
+        while (src && src.isPlaying)
+        {
+            yield return null; //yield le devuelve el control a Unity
+        }
+
+        Destroy(src.gameObject);
     }
+
     public void ClearAudios()
     {
         foreach(GameObject audioObject in audioList)
