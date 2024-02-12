@@ -43,7 +43,16 @@ public class AudioManager : MonoBehaviour
         
         return audioSourceComponent;
     }//IEnumerator es una corrutina que tiene Unity para crear una epsecie de hilos y procesos
-   IEnumerator WaitAudioEnd(AudioSource src) //este bucle espera a que src deje de sonar para destruirlo
+
+    public AudioSource PlayAudio3D(AudioClip audioClip, string gameObjectName, bool isLoop = false, float volume = 1.0f)
+    {
+        AudioSource audioSource = PlayAudio(audioClip, gameObjectName, false, volume);
+        audioSource.spatialBlend = 1f;
+
+        return audioSource;
+    }
+
+    IEnumerator WaitAudioEnd(AudioSource src) //este bucle espera a que src deje de sonar para destruirlo
     {
         while (src && src.isPlaying)
         {

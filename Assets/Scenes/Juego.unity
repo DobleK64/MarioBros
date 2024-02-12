@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (100)
@@ -236,6 +240,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (98)
@@ -297,6 +305,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (107)
@@ -358,6 +370,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (81)
@@ -424,6 +440,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (87)
@@ -547,6 +567,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (105)
@@ -608,6 +632,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (143)
@@ -669,6 +697,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (26)
@@ -735,6 +767,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (114)
@@ -880,6 +916,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (95)
@@ -941,6 +981,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (14)
@@ -1007,6 +1051,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (16)
@@ -1073,6 +1121,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (31)
@@ -1204,6 +1256,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (117)
@@ -1265,6 +1321,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (34)
@@ -1415,6 +1475,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (8)
@@ -1481,6 +1545,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (22)
@@ -1547,6 +1615,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (18)
@@ -1613,6 +1685,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (55)
@@ -1679,6 +1755,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (127)
@@ -1865,6 +1945,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (119)
@@ -1926,6 +2010,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (135)
@@ -1987,6 +2075,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (115)
@@ -2110,6 +2202,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (19)
@@ -2176,6 +2272,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (52)
@@ -2242,6 +2342,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (149)
@@ -2281,23 +2385,23 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 345665610}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 4fca2af271af85f4b8516fbdf61ad0d0, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 5
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 2
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -2305,23 +2409,41 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0
+      time: 0.2
       value: 1
-      inSlope: 0
-      outSlope: 0
+      inSlope: -5.0019917
+      outSlope: -5.0019917
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.4
+      value: 0.5
+      inSlope: -1.2504979
+      outSlope: -1.2504979
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.8
+      value: 0.25
+      inSlope: -0.31262448
+      outSlope: -0.31262448
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
     - serializedVersion: 3
       time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
+      value: 0.004168704
+      inSlope: -0.20007975
+      outSlope: -0.20007975
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
+      inWeight: 0
+      outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
@@ -2330,7 +2452,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -2412,7 +2534,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.16037738, g: 0.14600393, b: 0.14600393, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2431,8 +2553,8 @@ Transform:
   m_GameObject: {fileID: 345665610}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -4.94, y: 0.178, z: 0}
+  m_LocalScale: {x: 0.6208, y: 0.1468, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2680,6 +2802,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (72)
@@ -2746,6 +2872,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (75)
@@ -2812,6 +2942,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (45)
@@ -2878,6 +3012,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (23)
@@ -3028,6 +3166,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (137)
@@ -3146,6 +3288,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (86)
@@ -3341,6 +3487,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (145)
@@ -3402,6 +3552,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (126)
@@ -3463,6 +3617,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (102)
@@ -3581,6 +3739,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (59)
@@ -3647,6 +3809,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (51)
@@ -3713,6 +3879,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (121)
@@ -3774,6 +3944,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (38)
@@ -3924,6 +4098,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (61)
@@ -3990,6 +4168,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (96)
@@ -4086,7 +4268,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.07999992, y: 0.13999999, z: -10}
+  m_LocalPosition: {x: 0.07999992, y: 0.13999999, z: -0.62}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4157,6 +4339,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (93)
@@ -4184,6 +4370,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: 100
+  monedaClip: {fileID: 0}
 --- !u!1 &549046926
 GameObject:
   m_ObjectHideFlags: 0
@@ -4320,6 +4507,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (139)
@@ -4438,6 +4629,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (144)
@@ -4499,6 +4694,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (24)
@@ -4565,6 +4764,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (88)
@@ -20255,6 +20458,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (120)
@@ -20316,6 +20523,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (64)
@@ -20382,6 +20593,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (97)
@@ -20443,6 +20658,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (10)
@@ -20509,6 +20728,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (62)
@@ -20575,6 +20798,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (9)
@@ -20641,6 +20868,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (32)
@@ -20707,6 +20938,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (101)
@@ -20768,6 +21003,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (17)
@@ -20877,6 +21116,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (21)
@@ -20943,6 +21186,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (47)
@@ -21093,6 +21340,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (111)
@@ -21231,6 +21482,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (148)
@@ -21297,6 +21552,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (140)
@@ -21518,6 +21777,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (83)
@@ -21584,6 +21847,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (122)
@@ -21645,6 +21912,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (91)
@@ -21711,6 +21982,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (150)
@@ -22015,6 +22290,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (46)
@@ -22081,6 +22360,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (108)
@@ -22142,6 +22425,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (48)
@@ -22265,6 +22552,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (147)
@@ -24354,6 +24645,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (92)
@@ -24415,6 +24710,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (42)
@@ -24481,6 +24780,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (123)
@@ -24542,6 +24845,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (53)
@@ -24608,6 +24915,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (85)
@@ -24674,6 +24985,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (39)
@@ -24740,6 +25055,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (27)
@@ -24806,6 +25125,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (109)
@@ -24867,6 +25190,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (125)
@@ -24928,6 +25255,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (58)
@@ -24994,6 +25325,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (82)
@@ -25060,6 +25395,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (130)
@@ -25178,6 +25517,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (69)
@@ -25244,6 +25587,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (43)
@@ -25310,6 +25657,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (70)
@@ -25376,6 +25727,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (74)
@@ -25442,6 +25797,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (103)
@@ -25503,6 +25862,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (113)
@@ -25564,6 +25927,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (71)
@@ -25695,6 +26062,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (40)
@@ -25761,6 +26132,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (128)
@@ -25822,6 +26197,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (54)
@@ -25888,6 +26267,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (118)
@@ -25949,6 +26332,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (146)
@@ -26010,6 +26397,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (116)
@@ -26071,6 +26462,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (73)
@@ -26190,6 +26585,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (7)
@@ -26256,6 +26655,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (94)
@@ -26317,6 +26720,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (76)
@@ -26467,6 +26874,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (136)
@@ -26683,6 +27094,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (37)
@@ -26749,6 +27164,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (11)
@@ -26883,6 +27302,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (78)
@@ -26949,6 +27372,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (106)
@@ -27010,6 +27437,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (13)
@@ -27133,6 +27564,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (15)
@@ -27249,6 +27684,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: 100
+  monedaClip: {fileID: 0}
 --- !u!1 &1351790161
 GameObject:
   m_ObjectHideFlags: 0
@@ -27494,6 +27930,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (141)
@@ -27639,6 +28079,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (124)
@@ -27700,6 +28144,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (60)
@@ -27766,6 +28214,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (133)
@@ -27827,6 +28279,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (99)
@@ -27888,6 +28344,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (129)
@@ -27949,6 +28409,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (89)
@@ -28015,6 +28479,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (57)
@@ -28228,6 +28696,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (12)
@@ -28294,6 +28766,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (79)
@@ -28458,6 +28934,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (44)
@@ -28608,6 +29088,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (29)
@@ -28731,6 +29215,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (65)
@@ -28797,6 +29285,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (77)
@@ -28947,6 +29439,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (35)
@@ -29013,6 +29509,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (6)
@@ -29079,6 +29579,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (134)
@@ -29371,6 +29875,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (30)
@@ -29437,6 +29945,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (49)
@@ -29503,6 +30015,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (131)
@@ -29705,6 +30221,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (80)
@@ -29771,6 +30291,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (104)
@@ -29832,6 +30356,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (36)
@@ -29898,6 +30426,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (67)
@@ -29964,6 +30496,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (25)
@@ -30030,6 +30566,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (84)
@@ -30096,6 +30636,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (33)
@@ -30162,6 +30706,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (63)
@@ -30228,6 +30776,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (112)
@@ -30380,6 +30932,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (56)
@@ -30446,6 +31002,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (68)
@@ -30512,6 +31072,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (20)
@@ -30578,6 +31142,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (28)
@@ -30644,6 +31212,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (138)
@@ -30891,6 +31463,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (66)
@@ -31014,6 +31590,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (90)
@@ -31080,6 +31660,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (110)
@@ -31141,6 +31725,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (41)
@@ -31207,6 +31795,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (50)
@@ -31273,6 +31865,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (132)
@@ -31334,6 +31930,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (142)
@@ -31517,6 +32117,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3423236533239399522, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
+      propertyPath: monedaClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e95e80a3e4f1e1a419b1dfc5bce2c127, type: 3}
     - target: {fileID: 7782944032853678941, guid: b252b1efbba50ee4798e747e19af74ba, type: 3}
       propertyPath: m_Name
       value: moneda (5)
