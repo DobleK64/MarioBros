@@ -107,7 +107,7 @@ public class PlayerMovement : MonoBehaviour
     {
         
 
-        
+        AudioManager.instance.ClearAudios(); //Esto nos ayuda a limpiar los audios una vez nuestro personaje es destruido
         SceneManager.LoadScene("Juego"); // Si nuestro corazon a sido destruido se reiniciara la escena ("DESTRUIDO" caer al vacio solo hara que volvamos a la posiscion inicial)
     }
 
