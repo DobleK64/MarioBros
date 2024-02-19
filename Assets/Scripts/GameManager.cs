@@ -6,9 +6,10 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
-    public enum GameManagerVariables { TIME, POINTS };
+    public enum GameManagerVariables { TIME, POINTS, KILLS };
     private float time;
     private int points;
+    private int kills;
 
     private void Awake()
     {
@@ -44,12 +45,22 @@ public class GameManager : MonoBehaviour
     {
         return points;
     }
+    public int GetKills()
+    {
+        return kills;
+    }
 
     //setter
     public void SetPoints(int value)
     {
         points = value;
     }
+    //setter
+    public void SetKills(int value)
+    {
+        kills = value;
+    }
+
     //callback ---> funcion que se va a llamar en el onclick() de los botones
     public void LoadScene(string sceneName)
     {

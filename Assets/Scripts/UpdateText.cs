@@ -24,6 +24,9 @@ public class UpdateText : MonoBehaviour
             case GameManager.GameManagerVariables.POINTS:
                 textComponent.text = "Points: " + GameManager.instance.GetPoints();
                 break;
+            case GameManager.GameManagerVariables.KILLS:
+                textComponent.text = "Kills: " + GameManager.instance.GetKills();
+                break;
             default:
                 break;
         }
