@@ -38,11 +38,6 @@ void Start()
     }
     private void OnTriggerEnter2D(Collider2D collision) //Cuando el enemigo toca al jugador lo mata
     {
-        if (collision.gameObject.GetComponent<PlayerMovement>()) //Al tocar el jugador la moneda se destruye
-        {
-            Destroy(this.gameObject);
-        }
-
 
         //sin acabar, intente que cuando el enemigo tocara a nuestro jugador reiniciara la escena, pero como nuestro enemigo tiene 2 colliders al pisarlo me mataba y reiniciaba la escena
         PlayerMovement corazon = collision.gameObject.GetComponent<PlayerMovement>();

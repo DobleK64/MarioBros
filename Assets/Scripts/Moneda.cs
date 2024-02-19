@@ -7,7 +7,7 @@ public class Moneda : MonoBehaviour
     public int value = 1;
     private int monedaTotal;
     public AudioClip monedaClip;
-    private void OnTriggerEnter2D(Collider2D collision) 
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.GetComponent<PlayerMovement>()) //Al tocar el jugador la moneda se destruye
         {
@@ -20,4 +20,3 @@ public class Moneda : MonoBehaviour
     }
 }
 
-  

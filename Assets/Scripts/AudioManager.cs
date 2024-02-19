@@ -10,7 +10,7 @@ public class AudioManager : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        if(!instance) //si instance no tiene informacion
+        if (!instance) //si instance no tiene informacion
         {
             instance = this; //instance se asigna a este objeto
             DontDestroyOnLoad(gameObject); // se indica que esre obj no se destruya con la carga de escenas
@@ -35,12 +35,12 @@ public class AudioManager : MonoBehaviour
         audioSourceComponent.loop = isLoop;
         audioSourceComponent.Play();
         audioList.Add(audioObject); //llevar un seguimiento de los objetos que estan sonando en la escena.
-        if(!isLoop) // si el audio no esta en loop espero a que acabe para destruirlo
+        if (!isLoop) // si el audio no esta en loop espero a que acabe para destruirlo
         {
             StartCoroutine(WaitAudioEnd(audioSourceComponent));
         }
-        
-        
+
+
         return audioSourceComponent;
     }//IEnumerator es una corrutina que tiene Unity para crear una epsecie de hilos y procesos
 
@@ -64,10 +64,10 @@ public class AudioManager : MonoBehaviour
 
     public void ClearAudios()
     {
-        foreach(GameObject audioObject in audioList)
+        foreach (GameObject audioObject in audioList)
         {
             Destroy(audioObject);
         }
-        audioList.Clear();  
+        audioList.Clear();
     }
 }

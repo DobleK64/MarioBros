@@ -6,7 +6,7 @@ public class MonsterStomp : MonoBehaviour //Monster stomp traducido como pisoton
 {
     public int value = 10;
     private int monedaTotal;
-
+    public AudioClip enemigoClip;
     private void OnCollisionEnter2D(Collision2D collision) //El jugador tiene un Box collider en los pies que al colisionar con la cabeza del enemigo lo destruye
     {
         if(collision.gameObject.tag == "Weak Point") { 
@@ -14,6 +14,7 @@ public class MonsterStomp : MonoBehaviour //Monster stomp traducido como pisoton
         monedaTotal = GameManager.instance.GetPoints();
         monedaTotal = value + monedaTotal;
         GameManager.instance.SetPoints(monedaTotal);
+        AudioManager.instance.PlayAudio(enemigoClip, "enemigoSound", false, 1f);
         Destroy(collision.gameObject);
         }
     }

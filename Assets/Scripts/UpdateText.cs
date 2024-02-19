@@ -14,12 +14,12 @@ public class UpdateText : MonoBehaviour
     }
 
     //Update is called once per frame
-    void Update()
+    void Update() //Contador de tiempo
     {
         switch (variable)
         {
             case GameManager.GameManagerVariables.TIME:
-                textComponent.text = "Time: " + GameManager.instance.GetTime();
+                textComponent.text = "Time: " + GameManager.instance.GetTime().ToString("#.##");
                 break;
             case GameManager.GameManagerVariables.POINTS:
                 textComponent.text = "Points: " + GameManager.instance.GetPoints();

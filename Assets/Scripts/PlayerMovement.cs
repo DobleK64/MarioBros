@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public float speed, rayDistance, jumpForce;
     public LayerMask groundMask; // mascara de colisiones con la que queremos que choque el rayo.
     public AudioClip jumpClip; // 
-
+    public int saltoDoble = 0; //
     private Rigidbody2D rb;
     private SpriteRenderer _rend;
     private Animator _animator;
@@ -45,10 +45,11 @@ public class PlayerMovement : MonoBehaviour
             _rend.flipX = true;
             dir = new Vector2(-1, 0);
         }
-        _intentionToJump = false;
-        if (Input.GetKey(jumpKey))
+
+        if (Input.GetKeyDown(jumpKey))
         {
             _intentionToJump = true;
+            Debug.Log(saltoDoble);
         }
 
         //ANIMACIONES.
@@ -75,14 +76,18 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = nVel; //Mantener la velocidad en Y en las caidas despues del Salto.
         }
 
-        if (_intentionToJump && IsGrounded()) //Salto del corazon.
+        if (_intentionToJump && (IsGrounded() || saltoDoble < 2)) //Salto del corazon.
         {
+
             _animator.Play("saltar");
             rb.velocity = new Vector2(rb.velocity.x, 0);
             rb.AddForce(Vector2.up * jumpForce * rb.gravityScale * rb.drag, ForceMode2D.Impulse); //rb.drag es para evitar que el corazon se deslice.
-            _intentionToJump = false;
             AudioManager.instance.PlayAudio(jumpClip, "jumpSound", false, 0.1f);
+            saltoDoble++;
+
+
         }
+        _intentionToJump = false;
         _animator.SetBool("isGrounded", grnd);
     }
     private bool IsGrounded() //se lanza un rayo desde el corazon hacia abajo y detectar la m�scara de colisiones que hemos establecido (detectar el suelo).
@@ -90,6 +95,7 @@ public class PlayerMovement : MonoBehaviour
         RaycastHit2D collisions = Physics2D.Raycast(transform.position, Vector2.down, rayDistance, groundMask);
         if (collisions)
         {
+            saltoDoble = 0;
             return true;
         }
         return false;
@@ -101,14 +107,14 @@ public class PlayerMovement : MonoBehaviour
     }
     public void resetCorazon() // Para que nuestro corazon vuelva a su posicion incial al caer
     {
-        transform.position = originalPosition;
+        GameManager.instance.LoadScene("Juego");
     }
     void OnDestroy() // Esto comprueba que nuestro corazon a sido destruido
     {
-        
+
 
         AudioManager.instance.ClearAudios(); //Esto nos ayuda a limpiar los audios una vez nuestro personaje es destruido
-        SceneManager.LoadScene("Juego"); // Si nuestro corazon a sido destruido se reiniciara la escena ("DESTRUIDO" caer al vacio solo hara que volvamos a la posiscion inicial)
+                                             // SceneManager.LoadScene("Juego"); // Si nuestro corazon a sido destruido se reiniciara la escena ("DESTRUIDO" caer al vacio solo hara que volvamos a la posiscion inicial)
     }
 
 }
