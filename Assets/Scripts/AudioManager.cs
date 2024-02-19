@@ -69,5 +69,6 @@ public class AudioManager : MonoBehaviour
             Destroy(audioObject);
         }
         audioList.Clear();
+        StopAllCoroutines();
     }
 }
