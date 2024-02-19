@@ -13,11 +13,12 @@ public class MonsterStomp : MonoBehaviour //Monster stomp traducido como pisoton
     {
         if(collision.gameObject.tag == "Weak Point") { 
         killsTotal = GameManager.instance.GetKills();
-        killsTotal = valuekills+ killsTotal;
+        killsTotal = valuekills+ killsTotal;                //recuento de kills
         GameManager.instance.SetKills(killsTotal);
+            //
         monedaTotal = GameManager.instance.GetPoints();
         monedaTotal = valuemoneda + monedaTotal;
-        GameManager.instance.SetPoints(monedaTotal);
+        GameManager.instance.SetPoints(monedaTotal);  //recuento de puntos 
         AudioManager.instance.PlayAudio(enemigoClip, "enemigoSound", false, 1f);
         Destroy(collision.gameObject);
         }

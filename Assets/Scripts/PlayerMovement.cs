@@ -107,7 +107,7 @@ public class PlayerMovement : MonoBehaviour
     }
     public void resetCorazon() // Para que nuestro corazon vuelva a su posicion incial al caer
     {
-        GameManager.instance.LoadScene("Juego");
+        GameManager.instance.LoadScene("GameOver");
     }
     void OnDestroy() // Esto comprueba que nuestro corazon a sido destruido
     {

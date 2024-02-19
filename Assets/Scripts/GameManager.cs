@@ -36,16 +36,16 @@ public class GameManager : MonoBehaviour
         time += Time.deltaTime;
     }
     // getter
-    public float GetTime()
+    public float GetTime() //tiempo
     {
         return time;
     }
     //getter
-    public int GetPoints()
+    public int GetPoints() //recuento de puntos
     {
         return points;
     }
-    public int GetKills()
+    public int GetKills() //recuento de kills
     {
         return kills;
     }
